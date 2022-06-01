@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+ERC 20 project RKU Token.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Fully deployed and tested contract of ERC20 token.
 
-Try running some of the following tasks:
+testnet - rinkeby.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+verify- etherscan.
